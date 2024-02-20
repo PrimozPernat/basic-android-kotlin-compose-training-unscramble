@@ -1,4 +1,9 @@
-Unscramble app
+Note
+=================================
+This project was forked so that I could save the progress.
+
+
+Google - Unscramble app
 =================================
 
 Single player game app that displays scrambled words. To play the game, player has to make a
